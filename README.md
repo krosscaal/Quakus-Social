@@ -1,5 +1,11 @@
 # quarkus-social Project
 
+- Projeto usando Quarkus desenvolvendo Rest Api
+
+- Banco de dados usado PostgreSQL
+
+# ------------------------------------------------------
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
